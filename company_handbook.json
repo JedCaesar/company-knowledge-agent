@@ -1,0 +1,5 @@
+[
+  {"id":"leave-001","title":"Annual leave","content":"Employees receive 24 paid leave days each year. Submit leave requests through the people portal at least five business days before the first day away.","source":"handbook/leave-policy"},
+  {"id":"expense-001","title":"Expense claims","content":"Expense claims require an itemized receipt and manager approval. Submit claims within 30 days of purchase through the finance portal.","source":"handbook/expense-policy"},
+  {"id":"security-001","title":"Security incidents","content":"Report suspected phishing or account compromise to security immediately. Do not forward suspicious messages or reuse an exposed password.","source":"handbook/security-response"}
+]
